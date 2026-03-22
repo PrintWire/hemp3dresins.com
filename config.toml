@@ -1,0 +1,183 @@
+baseURL = "https://hemp3dresins.com/"
+languageCode = "en-us"
+title = "Hemp 3D Resins"
+theme = "printwire"
+
+[params]
+tagline       = "The resource for plant-based, hemp-reinforced photopolymer resins — sustainable SLA materials for the eco-conscious maker and engineer."
+description   = "Hemp 3D Resins is the hub for bio-derived SLA/MSLA materials — hemp, flax, and cellulose reinforced photopolymers, bio-monomer chemistries, and sustainable additive manufacturing feedstock news."
+keywords      = "hemp resins 3D printing, bio-composite resin, sustainable SLA materials, plant-based resin, flax photopolymer, cellulose AM, eco 3D printing"
+logoEmoji     = "🌿"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#4ade80"
+colorPrimaryDark  = "#22c55e"
+colorPrimaryLight = "#86efac"
+colorBgDark       = "#030a05"
+colorBgSection    = "#060e07"
+colorBgCard       = "#0a140b"
+colorBgCardHover  = "#0e1c10"
+
+fontPrimary   = "Rajdhani"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"]
+
+heroEyebrow  = "Plant-Based 3D Resins"
+heroTitle    = "Hemp <em>3D Resins</em>"
+heroSubtitle = "The resource for plant-based, hemp-reinforced photopolymer resins — sustainable SLA materials for the eco-conscious maker and engineer."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+
+overviewTitle   = "Renewable Materials for SLA Printing"
+overviewText    = "From hemp fibre reinforced photopolymers to cellulose-derived acrylates — the bio-resin space is growing fast. We track every supplier, formulation, and research breakthrough."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "Hemp 3D Resins Services"
+servicesSubtitle = "The resource for plant-based, hemp-reinforced photopolymer resins — sustainable SLA materials for the eco-conscious maker and engineer."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "The resource for plant-based, hemp-reinforced photopolymer resins — sustainable SLA materials for the eco-conscious maker and engineer."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 30
+suffix = "+"
+label  = "Bio-Resin Suppliers Tracked"
+
+[[params.stats]]
+count  = 65
+suffix = "%"
+label  = "Max Bio-Content Available"
+
+[[params.stats]]
+count  = 3
+suffix = "x"
+label  = "Market Growth (2024-2028)"
+
+[[params.stats]]
+count  = 15
+suffix = "µm"
+label  = "High-Res Bio-Resin Layer"
+
+
+[[params.applications]]
+title       = "Consumer Goods"
+description = "Sustainable packaging, product components, and consumer goods from bio-derived 3D resins."
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+
+[[params.applications]]
+title       = "Medical & Dental"
+description = "Biocompatible bio-resins for dental models, surgical guides, and medical device prototyping."
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+
+[[params.applications]]
+title       = "Architecture & Design"
+description = "Eco-friendly architectural models, interior fittings, and design prototypes."
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+
+[[params.applications]]
+title       = "Research Materials"
+description = "Academic and industrial R&D into bio-derived photopolymer chemistries and composites."
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "🌿"
+title       = "Resin Comparison"
+description = "Side-by-side comparison of hemp, flax, soy, and cellulose-based resins — mechanical properties, pricing, and printer compatibility."
+
+[[params.servicesPreview]]
+icon        = "📋"
+title       = "Supplier Directory"
+description = "Curated directory of bio-resin manufacturers and distributors — with verification and user reviews."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Material Testing"
+description = "Independent mechanical and chemical characterisation of bio-resins — tensile, flexural, HDT, and bio-content certification."
+
+[[params.servicesPreview]]
+icon        = "⚗️"
+title       = "Formulation Consulting"
+description = "Chemistry consulting for manufacturers developing new bio-derived photopolymer formulations."
+
+
+[[params.services]]
+name        = "Resin Comparison"
+description = "Side-by-side comparison of hemp, flax, soy, and cellulose-based resins — mechanical properties, pricing, and printer compatibility."
+icon        = "🌿"
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+
+[[params.services]]
+name        = "Supplier Directory"
+description = "Curated directory of bio-resin manufacturers and distributors — with verification and user reviews."
+icon        = "📋"
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+
+[[params.services]]
+name        = "Material Testing"
+description = "Independent mechanical and chemical characterisation of bio-resins — tensile, flexural, HDT, and bio-content certification."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+
+[[params.services]]
+name        = "Formulation Consulting"
+description = "Chemistry consulting for manufacturers developing new bio-derived photopolymer formulations."
+icon        = "⚗️"
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "hemp3dresin.com"
+url         = "https://hemp3dresin.com"
+description = "Hemp bio-resin materials"
+
+[[params.clusterLinks]]
+name        = "3dprintcomposites.com"
+url         = "https://3dprintcomposites.com"
+description = "Composite 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprintfood.com"
+url         = "https://3dprintfood.com"
+description = "Food 3D printing"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
